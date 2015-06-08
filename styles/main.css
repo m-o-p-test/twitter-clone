@@ -1,0 +1,83 @@
+#content {
+	width: 100%;
+	text-align: center;
+}
+
+#application {
+  width: 900px;
+  display: inline-block;
+}
+
+#left-column {
+	width: 20%;
+	float: left;
+}
+
+#right-column {
+	width: 79%;
+	float: right;
+	text-align: left;
+	padding-left: 1%;
+}
+
+#profile-box {
+	border: 1px solid black;
+	height: 58px;
+	padding-left: 3px;
+	padding-top: 3px;
+	font-size: 12px;
+}
+
+#avatar {
+	float: left;
+	margin-right: 4%;
+}
+
+#avatar img {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+}
+
+#user-info {
+	text-align: left;
+	margin-left: 2%;
+}
+
+#tweet-input {
+	border: 1px solid black;	
+	padding: 8px;
+	margin-bottom: 10px;
+}
+
+#tweet-input input {
+	width: 300px;
+}
+
+#tweet-list {
+	border: 1px solid black;
+}
+
+#tweet img {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	margin-right: 5px;
+}
+	
+
+#tweet {
+	border: 1px solid black;
+	height: 58px;
+	padding: 5px;
+	margin: 5px;
+}
+
+#tweet-avatar {
+	float: left;
+}
+
+#tweet-username {
+	margin-right: 10px
+}
+
